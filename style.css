@@ -36,8 +36,8 @@ html,body{
 }
 
 .anim-typewriter{
-    animation: typewriter 6s steps(40) 1s 1 normal both,
-    blinkTextCussor 800ms steps(40) infinite normal;
+    animation: typewriter 4s steps(40) 2s 1 normal both,
+    blinkTextCussor 850ms steps(40) infinite normal;
 
 }
 
