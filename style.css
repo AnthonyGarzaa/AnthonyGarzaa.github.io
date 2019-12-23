@@ -36,7 +36,7 @@ html,body{
 }
 
 .anim-typewriter{
-    animation: typewriter 5s steps(40) 1s 1 normal both,
+    animation: typewriter 5s steps(50) 1s 1 normal both,
     blinkTextCussor 800ms steps(40) infinite normal;
 
 }
@@ -46,7 +46,7 @@ html,body{
         width: 0;
     }
     to{
-        width: 18em;
+        width: 130em;
     }
 }
 
@@ -507,6 +507,7 @@ h6{
 
 #address{
     text-align: right;
+    color: grey;
 }
 
 #media ul{
